@@ -1,17 +1,3 @@
-name: "escapevelocity"
-description:
-    "A subset reimplementation of Apache Velocity with a much simpler API. "
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://github.com/google/escapevelocity"
-  }
-  url {
-    type: GIT
-    value: "https://github.com/google/escapevelocity"
-  }
-  version: "escapevelocity-0.9.1"
-  last_upgrade_date { year: 2020 month: 6 day: 12 }
-  license_type: NOTICE
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6b6534652dba927f9236159946291e225bdd3ab58141419c0e7f1fcafbd345e
+size 404
